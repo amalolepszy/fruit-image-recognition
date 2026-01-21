@@ -2,4 +2,19 @@ zrobic rozklad cech per owoc
 -> zeby zobaczyc ktora z cech najbardziej wplyw
 -> feature ranking (selekcja cech)
 -> forward/backward feature selection
--> analiza anova (wariancji)
+-> analiza anova (wariancji)\
+
+
+
+
+
+
+
+
+
+
+
+////////////
+- wykres rozkładu cech - jedna seria dla każdego owocu
+- scatterplot dla najważniejszych cech
+- podsumowanie, wnioski
